@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306832644910",
+    "firebase_url": "https://medo-e218a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medo-e218a",
+    "storage_bucket": "medo-e218a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306832644910:android:8cce716ac71cec8578b8bf",
+        "android_client_info": {
+          "package_name": "com.example.medo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306832644910-jrkt62vrjhvbn4rgmvl11ecc6tskoa8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medo",
+            "certificate_hash": "2b7db221ea79599e484568d045a7baf75b36c8c4"
+          }
+        },
+        {
+          "client_id": "306832644910-bhhnocln3u47m31mgel6s1re1k6905mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD48ysL1ItF1aiMzghzL4uFKv4d7OBOTLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306832644910-bhhnocln3u47m31mgel6s1re1k6905mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
